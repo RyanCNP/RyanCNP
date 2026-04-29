@@ -19,11 +19,16 @@ Profissional focado no desenvolvimento de soluções escaláveis e automação d
 * **Automação de Pipeline:** Configuração de fluxos de CI/CD para deploy automatizado de imagens Docker em instâncias EC2.
 * **SaneaSP:** Desenvolvimento de uma aplicação para melhorar a visibilidade de problemas de saneamento.  
 
-### 📈 GitHub Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanCNP&show_icons=true&theme=default" alt="Estatísticas de Ryan" />
-</p>
+## 📊 Dashboards & Métricas
 
+| Estatísticas Gerais | Linguagens Mais Usadas |
+| :---: | :---: |
+| ![Status](https://github-readme-stats.vercel.app/api?username=RyanCNP&show_icons=true&theme=default) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCNP&layout=compact&theme=default) |
+
+---
+
+### 🔥 Consistência
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RyanCNP&theme=default)
 ---
 
 ### Contact & Professional Networking
