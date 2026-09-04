@@ -23,7 +23,7 @@ Profissional focado no desenvolvimento de soluções escaláveis e automação d
 
 | Estatísticas Gerais | Linguagens Mais Usadas |
 | :---: | :---: |
-| ![Status](https://github-readme-stats.vercel.app/api?username=RyanCNP&show_icons=true&theme=default) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCNP&layout=compact&theme=default) |
+| ![Status](https://github-readme-stats.vercel.app/api?username=RyanCNP&show_icons=true&theme=tokyonight&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCNP&layout=compact&theme=tokyonight&hide_progress=false) |
 
 ---
 
