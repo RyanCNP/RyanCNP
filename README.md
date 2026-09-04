@@ -19,18 +19,6 @@ Profissional focado no desenvolvimento de soluções escaláveis e automação d
 * **Automação de Pipeline:** Configuração de fluxos de CI/CD para deploy automatizado de imagens Docker em instâncias EC2.
 * **SaneaSP:** Desenvolvimento de uma aplicação para melhorar a visibilidade de problemas de saneamento.  
 
-## 📊 Dashboards & Métricas
-
-| Estatísticas Gerais | Linguagens Mais Usadas |
-| :---: | :---: |
-| ![Status](https://github-readme-stats.vercel.app/api?username=RyanCNP&show_icons=true&theme=tokyonight&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCNP&layout=compact&theme=tokyonight&hide_progress=false) |
-
----
-
-### 🔥 Consistência
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RyanCNP&theme=default)
----
-
 ### Contact & Professional Networking
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-carlo-negretti-pereira-8709b1292/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.cnp234@gmail.com)
